@@ -15,4 +15,9 @@ Para poder instalar esta libreria, se ejecuta el siguiente comando
 
 pip install pygame
 
-Una vez finalizado este proceso el programa se puede ejecutar.
+Una vez finalizado este proceso el programa se puede ejecutar,
+con el siguiente comando:
+
+py queenGui.py
+
+Atentamente Jose Armando Ramirez Carrillo. ing.armandoramirez@outlook.com
